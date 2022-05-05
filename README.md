@@ -1,4 +1,4 @@
-# TypeScript - SNPP
+# Ionic - SNPP
 
 Proyecto SNPP - Ejercicios Ionic Framework
 
