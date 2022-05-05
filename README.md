@@ -2,6 +2,14 @@
 
 Proyecto SNPP - Ejercicios Ionic Framework
 
+### Como descargar proyecto
+```bash
+git clone https://github.com/krootca/Ionic-SNPP.git
+```
+
+Luego simplemente arrastras el archivo index.html al navegador y podras verlo.
+
+
 -----------
 ### Ejercicio 1
 
