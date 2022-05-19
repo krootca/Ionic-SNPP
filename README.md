@@ -91,8 +91,8 @@ tsc appName.ts --watch
 
 | El codigo typescript está dentro de la carpeta MyWork2
 
-- Variables
-- Array
-- Function
-- Constructor
+- Variables (String, number, boolean)
+- Array (String, number)
+- Function (Función añade, metodo push)
+- Constructor (Ejemplo de un auto)
 
