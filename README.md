@@ -87,7 +87,7 @@ tsc --init
 tsc appName.ts --watch 
 ```
 
-###Ejercicio 4
+### Ejercicio 4
 
 | El codigo typescript está dentro de la carpeta MyWork2
 
